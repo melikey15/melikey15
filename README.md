@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Newly graduated computer engineer<br>🏡 Lives in Ankara/Turkey<br>🌱 I’m currently learning Flutter and Swift<br>🚩 Interested in Full Stack Mobile Application development
+🎓 Newly graduated computer engineer<br>🏡 Lives in Ankara/Turkey<br>🌱 I’m currently learning Python<br>🚩 Interested in Full Stack development
 
 
 ## 🌐 Socials:
