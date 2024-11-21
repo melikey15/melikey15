@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Newly graduated computer engineer<br>🏡 Just moved to Switzerland <br>🌱 I’m currently learning Python<br>🚩 Interested in Full Stack development
+🎓 Newly graduated computer engineer<br>🏡 Just moved to Switzerland <br>🌱Learning Python, Flutter, FastAPI <br>🚩 Interested in Full Stack development
 
 
 ## 🌐 Socials:
